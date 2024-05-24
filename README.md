@@ -1,13 +1,20 @@
-<h1 align="center">API Voll.med</h1>
-    <img alt="Tela Voll.med" title="Tela Voll.med" width="80%"
-    src="https://github.com/pallomagualter/api-Voll.med/blob/main/img/imgVollMed.png" />
+<h1 align="center">
+  🏥 API Voll.med 🧑🏻‍⚕️
+</h1>
 
-> :rocket: Projeto feito com o intuito de fixar conhecimentos sobre a linguagem Java utilizando o Spring Boot. Aplicando conhecimentos como:
-- Criação do zero de uma API Rest em Java com Spring Boot
-- Desenvolver CRUDs utilizando o banco de dados MySQL
-- Utilizar o Flyway como ferramenta de Migrations da API
-- Realizar validações utilizando o Bean Validation
-- Realizar paginação dos dados da API
+
+<div align="center">
+    <img alt="app-voll-med" title="app-voll-med" width="80%"
+    src="https://github.com/pallomagualter/api-Voll.med/blob/main/imgVollMed.png" />
+</div>
+    
+
+> Projeto feito com o intuito de fixar conhecimentos sobre a linguagem Java utilizando o Spring Boot. Aplicando conhecimentos como:
+>  - Criação de uma API Rest em Java com Spring Boot
+>  - Desenvolver CRUDs utilizando o banco de dados MySQL
+>  - Utilizar o Flyway como ferramenta de Migrations da API
+>  - Realizar validações utilizando o Bean Validation
+>  - Realizar paginação dos dados da API
 
 <div align="center">
   <sub>Built with ❤︎ by
@@ -99,7 +106,7 @@
       - Uma consulta somente poderá ser cancelada com antecedência mínima de 24 horas.
 
 
-# :computer: Technologies
+# 💻  Technologies
 This project was made using the follow technologies:
 
 * [Spring Boot 3](https://spring.io/projects/spring-boot)
@@ -111,25 +118,19 @@ This project was made using the follow technologies:
 * [Maven](https://maven.apache.org/)
 * [Insomnia](https://insomnia.rest/)
 
-# :rocket: Features
 
-* O é usar o Spring Boot para desenvolver uma API Rest, com algumas funcionalidades. A ideia é desenvolver um CRUD, sendo as quatro operações fundamentais das aplicações: cadastro, listagem, atualização e exclusão de informações.
-
-# :construction_worker: How to run
+# 👩🏻‍💻 How to run
 ```bash
 # Clone Repository
 $ git clone https://github.com/pallomagualter/api-Voll.med.git
 ```
 
+Access API at
 ```
-Access API at http://localhost:8080/
+http://localhost:8080/
+```
 
-
-# :closed_book: License
-
-Released in 2020 :closed_book: License
-
-Made with love by [Palloma Gualter](https://github.com/pallomagualter.git) 🚀.
+Made with love by [Palloma Gualter](https://github.com/pallomagualter) 🚀.
 This project is under the [MIT license](./LICENSE).
 
 
