@@ -15,6 +15,10 @@
 >  - Utilizar o Flyway como ferramenta de Migrations da API
 >  - Realizar validações utilizando o Bean Validation
 >  - Realizar paginação dos dados da API
+>  - Boas práticas na API
+>  - Tratamento de erros
+>  - Autenticação/Autorização
+>  - Tokens JWT
 
 <div align="center">
   <sub>Built with ❤︎ by
