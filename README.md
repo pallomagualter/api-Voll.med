@@ -20,6 +20,11 @@
 >  - Autenticação/Autorização
 >  - Tokens JWT
 
+
+## 🎨 Layout
+O layout da aplicação mobile está disponível neste link: [Figma](https://www.figma.com/file/N4CgpJqsg7gjbKuDmra3EV/Voll.med)
+
+
 <div align="center">
   <sub>Built with 💜 by
     <a href="https://github.com/pallomagualter/">Palloma Gualter</a>
@@ -124,9 +129,10 @@ This project was made using the follow technologies:
 
 
 # 👩🏻‍💻 How to run
+
+### Clone Repository
 ```bash
-# Clone Repository
-$ git clone https://github.com/pallomagualter/api-Voll.med.git
+git clone https://github.com/pallomagualter/api-Voll.med.git
 ```
 
 Access API at
