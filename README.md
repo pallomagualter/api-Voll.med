@@ -2,6 +2,11 @@
   🏥 API Voll.med 🧑🏻‍⚕️
 </h1>
 
+> Sobre o projeto
+> 
+>Voll.med é uma clínica médica fictícia que precisa de um aplicativo para gestão de consultas. O aplicativo deve possuir funcionalidades que permitam o cadastro de médicos e de pacientes, e também o agendamento e cancelamento de consultas.
+>
+>Enquanto um time de desenvolvimento será responsável pelo aplicativo mobile, o nosso será responsável pelo desenvolvimento da API Rest desse projeto.
 
 <div align="center">
     <img alt="app-voll-med" title="app-voll-med" width="80%"
@@ -115,18 +120,18 @@ O layout da aplicação mobile está disponível neste link: [Figma](https://www
         - Uma consulta somente poderá ser cancelada com antecedência mínima de 24 horas.
 
 
-# 💻  Technologies
+# 🛠 Technologies
 This project was made using the follow technologies:
 
-* [Spring Boot 3](https://spring.io/projects/spring-boot)
-* [Java 17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
-* [Lombok](https://projectlombok.org/)
-* [Flyway](https://flywaydb.org/)
-* [MySQL](https://www.mysql.com/)
-* [JPA/Hibernate](https://www.alura.com.br/apostila-java-web/uma-introducao-pratica-ao-jpa-com-hibernate)
-* [Maven](https://maven.apache.org/)
-* [Insomnia](https://insomnia.rest/)
+- **[Java 17](https://www.oracle.com/java)**
+- **[Spring Boot 3](https://spring.io/projects/spring-boot)**
+- **[Maven](https://maven.apache.org)**
+- **[MySQL](https://www.mysql.com)**
+- **[Hibernate](https://hibernate.org)**
+- **[Flyway](https://flywaydb.org)**
+- **[Lombok](https://projectlombok.org)**
 
+---
 
 # 👩🏻‍💻 How to run
 
